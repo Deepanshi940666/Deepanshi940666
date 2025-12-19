@@ -1,16 +1,60 @@
-## Hi there 👋
+# Deepanshi Gupta  
 
-<!--
-**Deepanshi940666/Deepanshi940666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Professional Summary  
+Motivated and detail-oriented engineering student with a strong interest in software development and web technologies. Actively building technical skills through hands-on practice and academic projects. Passionate about continuous learning, problem-solving, and creating meaningful digital solutions.
+
+---
+
+## 🔧 Technical Skills  
+**Programming Languages:**  
+- C  
+- C++  
+- Java (Basic)  
+
+**Web Technologies:**  
+- HTML  
+- CSS  
+- JavaScript  
+
+**Tools & Platforms:**  
+- Git  
+- GitHub  
+- Visual Studio Code  
+
+---
+
+## 📌 Current Focus  
+- Strengthening core programming concepts  
+- Practicing data structures and logic building  
+- Developing responsive web applications  
+- Improving problem-solving skills  
+
+---
+
+## 📂 Projects  
+- Beginner-level web and programming projects (in progress)  
+- Academic assignments focused on logic implementation  
+
+*(Project details will be updated as development progresses.)*
+
+---
+
+## 📫 Contact Information  
+- **GitHub:** https://github.com/your-github-username  
+- **Email:** your-email@example.com  
+
+---
+
+### 📈 Professional Values  
+- Consistency in learning  
+- Clean and readable code  
+- Strong fundamentals  
+- Growth-oriented mindset  
+
+---
+
+*Open to learning opportunities, internships, and collaborative projects.*

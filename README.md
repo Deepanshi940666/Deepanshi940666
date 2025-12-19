@@ -13,7 +13,6 @@ Motivated and detail-oriented engineering student with a strong interest in soft
 **Programming Languages:**  
 - C  
 - C++  
-- Java (Basic)  
 
 **Web Technologies:**  
 - HTML  
@@ -44,8 +43,7 @@ Motivated and detail-oriented engineering student with a strong interest in soft
 ---
 
 ## 📫 Contact Information  
-- **GitHub:** https://github.com/your-github-username  
-- **Email:** your-email@example.com  
+- **GitHub:** https://github.com/Deepanshi940666  
 
 ---
 

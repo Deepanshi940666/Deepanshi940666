@@ -57,7 +57,8 @@ Motivated and detail-oriented engineering student with a strong interest in soft
 
 ### Contribution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-akshay-tiwari/the-akshay-tiwari/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Deepanshi940666/Deepanshi940666/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 *Open to learning opportunities, internships, and collaborative projects.*

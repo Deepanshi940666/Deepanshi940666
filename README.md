@@ -12,7 +12,8 @@ Motivated and detail-oriented engineering student with a strong interest in soft
 ## 🔧 Technical Skills  
 **Programming Languages:**  
 - C  
-- C++  
+- C++
+- Java
 
 **Web Technologies:**  
 - HTML  

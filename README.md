@@ -46,9 +46,10 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
 * Interactive navigation
 * Clean and user-friendly interface
 
-**Tech Stack:** HTML, CSS, JavaScript
-🔗 Live Demo: [<deployment-link>](https://deepanshi940666.github.io/SugarCosmatic/)
-📂 Repository: [<repository-link>](https://github.com/Deepanshi940666/SugarCosmatic)
+**Tech Stack:** HTML, CSS, JavaScript**
+
+*🔗 Live Demo: (https://deepanshi940666.github.io/SugarCosmatic/)
+*📂 Repository: (https://github.com/Deepanshi940666/SugarCosmatic)
 
 ---
 

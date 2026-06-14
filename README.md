@@ -76,7 +76,7 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
 
 ## 📫 Contact Information
 
-**GitHub:** *github.com/Deepanshi940666*
+**GitHub:** *https://github.com/Deepanshi940666*
 
 **Linkedin:** *https://www.linkedin.com/in/deepanshigupta940666/*
 

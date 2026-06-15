@@ -99,8 +99,8 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepanshi940666&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi940666&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepanshi940666&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi940666&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">

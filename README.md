@@ -147,3 +147,4 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
 
 
 ⭐ **Open to learning opportunities, internships, open-source collaborations, and software development projects.**
+

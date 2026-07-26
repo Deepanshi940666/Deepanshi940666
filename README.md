@@ -24,37 +24,51 @@
 
 ---
 
-## 👩‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-🎓 Engineering student passionate about **software development and modern web technologies**.
+<h2 align="center">👩‍💻 About Me</h2>
 
-💻 I enjoy building user-friendly applications, solving problems, and contributing to open-source projects.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
 
-🌱 Currently learning **React.js, Data Structures & Algorithms, and UI/UX Design**.
-
-🚀 Open to internships, collaborations, and exciting development opportunities.
+<p align="center">
+  🎓 Engineering student passionate about <b>software development and modern web technologies</b>.
+  <br><br>
+  💻 I enjoy building user-friendly applications, solving problems, and contributing to open-source projects.
+  <br><br>
+  🌱 Currently learning <b>React.js, Data Structures & Algorithms, and UI/UX Design</b>.
+  <br><br>
+  🚀 Open to internships, collaborations, and exciting development opportunities.
+</p>
 
 <br>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-### 💻 Languages
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
-### 🌐 Web Development
+<h3 align="center">🌐 Web Development</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
-### ⚙️ Tools & Platforms
+<h3 align="center">⚙️ Tools & Platforms</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -62,24 +76,34 @@
 
 ---
 
-## 🚀 Featured Project
+<!-- ===================== FEATURED PROJECT ===================== -->
 
-### 💄 Sugar Cosmetics Website Clone
+<h2 align="center">🚀 Featured Project</h2>
 
-A responsive front-end clone of the Sugar Cosmetics website created to strengthen my web development skills and explore modern UI design.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
 
-**✨ Highlights**
+<h3 align="center">💄 Sugar Cosmetics Website Clone</h3>
 
-* Responsive design
-* Product showcase sections
-* Interactive navigation
-* Clean and user-friendly interface
+<p align="center">
+  A responsive front-end clone of the Sugar Cosmetics website created to strengthen my web development skills and explore modern UI design.
+</p>
 
-**🛠️ Built With**
+<p align="center">
+  ✨ Responsive Design &nbsp; • &nbsp;
+  🛍️ Product Showcase &nbsp; • &nbsp;
+  🧭 Interactive Navigation &nbsp; • &nbsp;
+  🎨 Clean UI
+</p>
 
-`HTML` · `CSS` · `JavaScript`
+<p align="center">
+  <b>🛠️ Built With</b>
+  <br><br>
+  <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code>
+</p>
 
-<p>
+<p align="center">
   <a href="https://deepanshi940666.github.io/SugarCosmatic/">
     <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
@@ -93,48 +117,72 @@ A responsive front-end clone of the Sugar Cosmetics website created to strengthe
 
 ---
 
-## 🌟 Open Source Contributions
+<!-- ===================== OPEN SOURCE ===================== -->
 
-### GirlScript Summer of Code Contributor
+<h2 align="center">🌟 Open Source Contributions</h2>
 
-Contributing to real-world open-source projects while collaborating with developers and project maintainers.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
 
-> Working on bug fixes, documentation, UI improvements, and learning industry-standard Git and GitHub workflows.
+<h3 align="center">GirlScript Summer of Code Contributor</h3>
 
-### Social Summer of Code Contributor
+<p align="center">
+  Contributing to real-world open-source projects while collaborating with developers and project maintainers.
+  <br><br>
+  🐛 Bug Fixes &nbsp; • &nbsp;
+  📝 Documentation &nbsp; • &nbsp;
+  🎨 UI Improvements &nbsp; • &nbsp;
+  🔧 Git & GitHub Workflows
+</p>
 
-Contributing to community-driven open-source initiatives through feature development and issue resolution.
+<h3 align="center">Social Summer of Code Contributor</h3>
 
-> Continuously improving teamwork, communication, and development practices through hands-on collaboration.
-
-<br>
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td>📚 Strengthening core programming concepts</td>
-<td>💡 Practicing Data Structures & Algorithms</td>
-</tr>
-<tr>
-<td>🌐 Building responsive web applications</td>
-<td>🚀 Contributing to open source</td>
-</tr>
-<tr>
-<td>🧩 Improving problem-solving skills</td>
-<td>✨ Learning and growing consistently</td>
-</tr>
-</table>
+<p align="center">
+  Contributing to community-driven open-source initiatives through feature development and issue resolution.
+  <br><br>
+  🤝 Collaboration &nbsp; • &nbsp;
+  🚀 Feature Development &nbsp; • &nbsp;
+  💡 Problem Solving
+</p>
 
 <br>
 
 ---
 
-## 🤝 Connect With Me
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<p align="left">
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
+
+<p align="center">
+  📚 Strengthening core programming concepts
+  <br><br>
+  💡 Practicing Data Structures & Algorithms
+  <br><br>
+  🌐 Building responsive web applications
+  <br><br>
+  🚀 Contributing to open source
+  <br><br>
+  🧩 Improving problem-solving skills
+</p>
+
+<br>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Deepanshi940666">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -148,15 +196,25 @@ Contributing to community-driven open-source initiatives through feature develop
 
 ---
 
-## 💫 Professional Values
+<!-- ===================== PROFESSIONAL VALUES ===================== -->
+
+<h2 align="center">💫 Professional Values</h2>
 
 <p align="center">
-  ✨ Consistency in learning &nbsp; • &nbsp;
-  💻 Clean and readable code &nbsp; • &nbsp;
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</p>
+
+<p align="center">
+  ✨ Consistency in learning
+  <br><br>
+  💻 Clean and readable code
+  <br><br>
   📚 Strong fundamentals
   <br><br>
-  🌱 Growth-oriented mindset &nbsp; • &nbsp;
-  🤝 Collaboration &nbsp; • &nbsp;
+  🌱 Growth-oriented mindset
+  <br><br>
+  🤝 Collaboration
+  <br><br>
   🚀 Continuous improvement
 </p>
 
@@ -164,7 +222,9 @@ Contributing to community-driven open-source initiatives through feature develop
 
 ---
 
-## 🐍 Contribution Graph
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepanshi940666/Deepanshi940666/output/github-contribution-grid-snake.svg" />

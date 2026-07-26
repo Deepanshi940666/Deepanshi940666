@@ -1,21 +1,32 @@
-# Hi there, I'm Deepanshi Gupta 👋
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Engineering+Student;Aspiring+Software+Developer;Open+Source+Contributor;Passionate+Web+Developer" />
+  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Deepanshi Gupta Banner"/>
+</p>
+
+<br>
+
+<h1 align="center">Hi there, I'm Deepanshi Gupta 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Engineering+Student;Aspiring+Software+Developer;Open+Source+Contributor;Passionate+Web+Developer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Deepanshi940666">
-    <img src="https://img.shields.io/github/followers/Deepanshi940666?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/Deepanshi940666?label=Followers&style=flat-square&color=8B5CF6" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Deepanshi940666&label=Profile%20Views&color=blue&style=flat" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Deepanshi940666&label=Profile%20Views&color=8B5CF6&style=flat-square" />
 </p>
+
+<br>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Engineering Student passionate about software development and web technologies.
+🎓 Engineering student passionate about **software development and modern web technologies**.
 
 💻 I enjoy building user-friendly applications, solving problems, and contributing to open-source projects.
 
@@ -23,30 +34,31 @@
 
 🚀 Open to internships, collaborations, and exciting development opportunities.
 
+<br>
+
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+</p>
 
-### Web Development
+### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+</p>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<br>
 
 ---
 
@@ -54,63 +66,81 @@
 
 ### 💄 Sugar Cosmetics Website Clone
 
-A responsive front-end clone of the Sugar Cosmetics website built to strengthen web development skills and improve understanding of modern UI design.
+A responsive front-end clone of the Sugar Cosmetics website created to strengthen my web development skills and explore modern UI design.
 
-✨ Features:
-- Responsive design
-- Product showcase sections
-- Interactive navigation
-- Clean and user-friendly interface
+**✨ Highlights**
 
-🛠️ Tech Stack: HTML, CSS, JavaScript
+* Responsive design
+* Product showcase sections
+* Interactive navigation
+* Clean and user-friendly interface
 
-🔗 **Live Demo:** https://deepanshi940666.github.io/SugarCosmatic/
+**🛠️ Built With**
 
-📂 **Repository:** https://github.com/Deepanshi940666/SugarCosmatic
+`HTML` · `CSS` · `JavaScript`
+
+<p>
+  <a href="https://deepanshi940666.github.io/SugarCosmatic/">
+    <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Deepanshi940666/SugarCosmatic">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
 
 ---
 
 ## 🌟 Open Source Contributions
 
-### GirlScript Summer of Code (GSSoC) Contributor
+### GirlScript Summer of Code Contributor
 
-- Contributing to real-world open-source projects.
-- Collaborating with developers and project maintainers.
-- Working on bug fixes, documentation, and UI improvements.
-- Learning industry-standard Git and GitHub workflows.
+Contributing to real-world open-source projects while collaborating with developers and project maintainers.
 
-### Social Summer of Code (SSOC) Contributor
+> Working on bug fixes, documentation, UI improvements, and learning industry-standard Git and GitHub workflows.
 
-- Contributing to community-driven open-source initiatives.
-- Enhancing projects through feature development and issue resolution.
-- Improving teamwork, communication, and development practices.
-- Continuously learning through hands-on collaboration.
+### Social Summer of Code Contributor
+
+Contributing to community-driven open-source initiatives through feature development and issue resolution.
+
+> Continuously improving teamwork, communication, and development practices through hands-on collaboration.
+
+<br>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📚 Strengthening core programming concepts
-- 💡 Practicing Data Structures & Algorithms
-- 🌐 Building responsive web applications
-- 🚀 Contributing to open source
-- 🧩 Improving problem-solving skills
+<table>
+<tr>
+<td>📚 Strengthening core programming concepts</td>
+<td>💡 Practicing Data Structures & Algorithms</td>
+</tr>
+<tr>
+<td>🌐 Building responsive web applications</td>
+<td>🚀 Contributing to open source</td>
+</tr>
+<tr>
+<td>🧩 Improving problem-solving skills</td>
+<td>✨ Learning and growing consistently</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshi940666&show_icons=true&theme=radical&cache_seconds=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepanshi940666&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=777777&border_color=E5E7EB" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi940666&layout=compact&theme=transparent&title_color=8B5CF6&text_color=777777&border_color=E5E7EB" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi940666&layout=compact&theme=radical&cache_seconds=1" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deepanshi940666&theme=radical" />
-</p>
+<br>
 
 ---
 
@@ -120,20 +150,29 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
   <a href="https://github.com/Deepanshi940666">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/deepanshigupta940666/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+<br>
+
 ---
 
 ## 💫 Professional Values
 
-✨ Consistency in learning  
-✨ Clean and readable code  
-✨ Strong fundamentals  
-✨ Growth-oriented mindset  
-✨ Collaboration and continuous improvement
+<p align="center">
+  ✨ Consistency in learning &nbsp; • &nbsp;
+  💻 Clean and readable code &nbsp; • &nbsp;
+  📚 Strong fundamentals
+  <br><br>
+  🌱 Growth-oriented mindset &nbsp; • &nbsp;
+  🤝 Collaboration &nbsp; • &nbsp;
+  🚀 Continuous improvement
+</p>
+
+<br>
 
 ---
 
@@ -145,6 +184,6 @@ A responsive front-end clone of the Sugar Cosmetics website built to strengthen 
 
 ---
 
-
-⭐ **Open to learning opportunities, internships, open-source collaborations, and software development projects.**
-
+<p align="center">
+  ⭐ Open to learning opportunities, internships, open-source collaborations, and software development projects.
+</p>

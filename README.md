@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="![Uploading Ambassador Perks.png…]()
-" width="100%" alt="Deepanshi Gupta Banner"/>
+  <img src="https://github.com/Deepanshi940666/Deepanshi940666/blob/main/.github/Ambassador%20Perks.png" width="100%" alt="Deepanshi Gupta Banner"/>
 </p>
 
 <br>

@@ -26,10 +26,8 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-<h2 align="center">👩‍💻 About Me</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=👩‍💻%20ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -48,10 +46,8 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🛠️%20TECH%20STACK&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">💻 Languages</h3>
@@ -78,10 +74,8 @@
 
 <!-- ===================== FEATURED PROJECT ===================== -->
 
-<h2 align="center">🚀 Featured Project</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20FEATURED%20PROJECT&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">💄 Sugar Cosmetics Website Clone</h3>
@@ -119,10 +113,8 @@
 
 <!-- ===================== OPEN SOURCE ===================== -->
 
-<h2 align="center">🌟 Open Source Contributions</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🌟%20OPEN%20SOURCE%20CONTRIBUTIONS&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">GirlScript Summer of Code Contributor</h3>
@@ -152,10 +144,8 @@
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-<h2 align="center">🎯 Current Focus</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -176,10 +166,8 @@
 
 <!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">🤝 Connect With Me</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -198,10 +186,8 @@
 
 <!-- ===================== PROFESSIONAL VALUES ===================== -->
 
-<h2 align="center">💫 Professional Values</h2>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=💫%20PROFESSIONAL%20VALUES&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -223,8 +209,6 @@
 ---
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepanshi940666/Deepanshi940666/output/github-contribution-grid-snake.svg" />

@@ -1,7 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Deepanshi Gupta Banner"/>
+  <img src="![Uploading Ambassador Perks.png…]()
+" width="100%" alt="Deepanshi Gupta Banner"/>
 </p>
 
 <br>
@@ -127,18 +128,6 @@ Contributing to community-driven open-source initiatives through feature develop
 <td>✨ Learning and growing consistently</td>
 </tr>
 </table>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepanshi940666&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=777777&border_color=E5E7EB" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi940666&layout=compact&theme=transparent&title_color=8B5CF6&text_color=777777&border_color=E5E7EB" />
-</p>
 
 <br>
 

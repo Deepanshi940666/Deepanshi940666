@@ -9,15 +9,15 @@
 <h1 align="center">Hi there, I'm Deepanshi Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Engineering+Student;Aspiring+Software+Developer;Open+Source+Contributor;Passionate+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=4682B4&center=true&vCenter=true&width=650&lines=Engineering+Student;Aspiring+Software+Developer;Open+Source+Contributor;Passionate+Web+Developer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Deepanshi940666">
-    <img src="https://img.shields.io/github/followers/Deepanshi940666?label=Followers&style=flat-square&color=8B5CF6" />
+    <img src="https://img.shields.io/github/followers/Deepanshi940666?label=Followers&style=flat-square&color=4682B4" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Deepanshi940666&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Deepanshi940666&label=Profile%20Views&color=4682B4&style=flat-square" />
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=👩‍💻%20ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=👩‍💻%20ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <!-- ===================== TECH STACK ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🛠️%20TECH%20STACK&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=🛠️%20TECH%20STACK&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">💻 Languages</h3>
@@ -75,7 +75,7 @@
 <!-- ===================== FEATURED PROJECT ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20FEATURED%20PROJECT&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=🚀%20FEATURED%20PROJECT&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">💄 Sugar Cosmetics Website Clone</h3>
@@ -99,11 +99,11 @@
 
 <p align="center">
   <a href="https://deepanshi940666.github.io/SugarCosmatic/">
-    <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Deepanshi940666/SugarCosmatic">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -114,7 +114,7 @@
 <!-- ===================== OPEN SOURCE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🌟%20OPEN%20SOURCE%20CONTRIBUTIONS&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=🌟%20OPEN%20SOURCE%20CONTRIBUTIONS&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">GirlScript Summer of Code Contributor</h3>
@@ -145,7 +145,7 @@
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -167,16 +167,16 @@
 <!-- ===================== CONNECT ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Deepanshi940666">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/deepanshigupta940666/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -187,7 +187,7 @@
 <!-- ===================== PROFESSIONAL VALUES ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=💫%20PROFESSIONAL%20VALUES&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:4682B4,100:0B1F3A&height=100&section=header&text=💫%20PROFESSIONAL%20VALUES&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">

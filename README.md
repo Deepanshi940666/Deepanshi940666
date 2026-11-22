@@ -1,7 +1,12 @@
+
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://github.com/Deepanshi940666/Deepanshi940666/blob/main/.github/download.jpeg" width="100%" alt="Deepanshi Gupta Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/Deepanshi940666/Deepanshi940666/main/.github/Cozy%20Winter%20Coding%20Animation.gif"
+    width="100%"
+    alt="Cozy Winter Coding Animation"
+  />
 </p>
 
 <br>
@@ -23,6 +28,7 @@
 <br>
 
 ---
+
 
 <!-- ===================== ABOUT ME ===================== -->
 
